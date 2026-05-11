@@ -19,5 +19,5 @@ all of the notes and concepts in this repository were learned from this video/co
 
 ## ⚡ Note
 
-These notes are mainly written for personal learning and understanding, so the code and explanations may be simple, beginner-focused, or experimental in some places.
-Most of the topics have exercise folder which include mini programs for that perticular topic 
+- These notes are mainly written for personal learning and understanding, so the code and explanations may be simple, beginner-focused, or experimental in some places.
+- Most of the topics have exercise folder which include mini programs for that perticular topic 
